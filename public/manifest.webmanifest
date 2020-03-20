@@ -1,0 +1,25 @@
+{
+    "short_name": "Budget Tracker",
+    "name": "Budget Tracker",
+    "icons": [
+      {
+        "src": "/assets/images/bank-icon-64x64.png",
+        "sizes": "64x64",
+        "type": "image/png"
+      },
+      {
+        "src": "/assets/images/bank-icon-128x128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "/assets/images/bank-icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/",
+    "background_color": "#63B882",
+    "display": "standalone",
+    "theme_color": "#63B882"
+  }

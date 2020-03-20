@@ -1,0 +1,26 @@
+{
+  "name": "budget-tracker",
+  "version": "1.0.0",
+  "description": "Progressive Budget Tracker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LegenDeri619/budget-tracker.git"
+  },
+  "author": "Deri Alhambra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LegenDeri619/budget-tracker/issues"
+  },
+  "homepage": "https://github.com/LegenDeri619/budget-tracker#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.5",
+    "morgan": "^1.9.1"
+  }
+}
